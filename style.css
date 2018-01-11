@@ -2,3 +2,7 @@ body {
     background-image: url("site_background.jpg");
     
 }
+
+#t {
+    border: 2px red solid;
+}
